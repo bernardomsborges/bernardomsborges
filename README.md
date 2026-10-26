@@ -42,23 +42,12 @@ gestão pública e tecnologia para simplificar processos administrativos.
 | **IA e agentes** | Ollama, OpenCode, LiteLLM, MCP |
 | **Versionamento** | Git, GitHub |
 
-## 📊 Atividade no GitHub
+## 🎯 Áreas de interesse
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bernardomsborges&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Estatísticas do GitHub de Bernardo Borges"
-    width="480"
-  >
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardomsborges&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-    alt="Linguagens mais presentes nos repositórios de Bernardo Borges"
-    width="400"
-  >
-</p>
+- Modernização da gestão pública com tecnologia.
+- Automação de processos e integração de sistemas governamentais.
+- APIs e serviços para o ecossistema SEI.
+- Aplicações de inteligência artificial no setor público.
 
 ---
 
